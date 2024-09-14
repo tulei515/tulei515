@@ -1,0 +1,9 @@
+{
+	"dependencies": {
+		"aws-sdk": "^2.1690.0",
+		"crypto-js": "^4.2.0",
+		"echarts": "^4.9.0",
+		"echarts-gl": "^1.1.2",
+		"moment": "^2.30.1"
+	}
+}
