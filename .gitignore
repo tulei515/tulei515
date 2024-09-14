@@ -1,16 +1,23 @@
-######################################################################
-# Build Tools
+.DS_Store
+node_modules
+/dist
 
-/unpackage/*
-/node_modules/*
 
-######################################################################
-# Development Tools
+# local env files
+.env.local
+.env.*.local
 
-/.idea/*
-/.vscode/*
-/.hbuilderx/*
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
 
-package-lock.json
-yarn.lock
-
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
